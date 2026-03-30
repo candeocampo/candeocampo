@@ -1,5 +1,8 @@
-## Hi there 👋
+## 👋 Hola, soy Candela!
 
+📚 Estudiante de 3°año de Ingenieria en Sistemas | UTN FRBA
+💼 Actualmente trabajando como Help Desk Support Specialist.
+🔗 [LinkedIn](https://www.linkedin.com/in/candelaocampo)
 <!--
 **candeocampo/candeocampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
