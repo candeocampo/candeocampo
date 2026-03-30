@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/candelaocampo)
 
 [![Python](https://img.shields.io/badge/Python-Proyecto-blue?style=flat&logo=python)](https://github.com/candeocampo/Python-TalentoTech)
+[![SQL](https://img.shields.io/badge/SQL-Queries-orange?style=flat&logo=sqlite)](https://github.com/candeocampo/GestionDeDatos-1C2025)
 <!--
 **candeocampo/candeocampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
