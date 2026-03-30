@@ -4,8 +4,6 @@
 
 💼 Actualmente trabajando como Help Desk Support Specialist
 
-🔗 [LinkedIn](https://www.linkedin.com/in/candelaocampo)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/candelaocampo)
 <!--
 **candeocampo/candeocampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
