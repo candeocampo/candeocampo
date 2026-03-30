@@ -5,6 +5,8 @@
 💼 Actualmente trabajando como Help Desk Support Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/candelaocampo)
+
+[![Python](https://img.shields.io/badge/Python-Proyecto-blue?style=flat&logo=python)](https://github.com/candeocampo/Python-TalentoTech)
 <!--
 **candeocampo/candeocampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
